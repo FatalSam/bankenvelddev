@@ -6,7 +6,7 @@ export default function Footer() {
     >
       <div className="mx-auto max-w-7xl px-4 py-6">
         <div className="text-center">
-          <h3 className="text-xl font-semibold text-white">Bankenveld City District</h3>
+          <h3 className="text-xl font-semibold text-white">Bankenveld District City</h3>
         </div>
       </div>
     </footer>
