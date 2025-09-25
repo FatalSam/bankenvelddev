@@ -38,15 +38,14 @@ export default function Home() {
         <Packages
           eyebrow="3"
           title="SMME Selection Process"
-           description={`a) All SMMEs registered on the database will be filtered according to their
-              main/primary area of expertise when specific work packages are
-              prepared.
-                \n
-              b) The filtered SMMEs for each work package will be invited by Jodan
-              Construction to attend interviews.`}
-          imageUrl="/hero1.jpg"
-          imageAlt="Selection process"
-          imagePosition="right"
+           description={`<ul class="space-y-3">
+              <li><strong>a)</strong> All SMMEs registered on the database will be filtered according to their main/primary area of expertise when specific work packages are prepared.</li>
+              <li><strong>b)</strong> The filtered SMMEs for each work package will be invited by Jodan Construction to attend interviews.</li>
+              <li><strong>c)</strong> SMME's will be selected based on the answers and knowledge demonstrated in the interview for their relevant work package. Company profiles and work experience will be taken into account and the required SMME's will be selected for the intended works packages. These SMME's will then be invited to a costing session to explain the calculations for the rate Breakdowns for their relevant work package.</li>
+              <li><strong>d)</strong> Should there be any changes to the quantities and/or specifications of a work package, these will be communicated either during the interview stage or through the distribution of an updated work package schedule, depending on the nature and extent of the changes (e.g., Joburg Water finalising detailed designs).</li>
+              <li><strong>e)</strong> Once the above process has been concluded, the contractor will select an SMME (or multiple SMMEs, as applicable) in line with the requirements of the work package. The selected SMMEs will then enter into agreements with the contractor, and further details regarding commencement of work will be provided.</li>
+            </ul>`}
+          containerClassName="mb-16"
       /> 
 
 
