@@ -29,7 +29,7 @@ export default function Home() {
           title="Database Registration"
           description="Companies that have not yet registered are invited to submit their details to be included in the BDC Supplier Database. This is the first step to be
               considered for participation.Submit documents to: profiles@bankenvelddev.co.za and clo@bankenvelddev.co.za"
-          imageUrl="/register.jpg"
+          imageUrl="/register2.jpg"
           imageAlt="Registration desk"
           imagePosition="right"
           primaryAction={{ label: "Required Documents", href: "/Documents_Required_for_Submission.pdf" }}      
